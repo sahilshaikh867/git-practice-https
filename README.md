@@ -1,13 +1,3 @@
-Acha 👍 samajh gaya bhai — tu chahta hai ek **master README** jo sirf **Git** ke topics ko cover kare:
-
-* Git via HTTPS
-* Git via SSH
-* Git Branching
-
-Aur wo bhi ekdum **attractive + detailed** style me.
-Yeh le teri final **Git-focused README.md** 👇
-
----
 # 🌀 Mastering Git – by Sahil Shaikh
 
 Welcome to my **Git Practice Repository** 🎯  
