@@ -19,7 +19,7 @@ Learn to work with Git using **HTTPS** and Personal Access Tokens (PAT).
 6. Pull updates → `git pull origin main`  
 7. File management: create, delete, update, restore  
 
-📌 [Detailed Guide](./git-https/README.md)
+📌 [Detailed Guide](./git-https/GIT-HTTP.md)
 
 ---
 
@@ -34,7 +34,7 @@ Work with Git securely using **SSH keys** (no need to enter credentials every ti
 5. Clone via SSH → `git clone git@github.com:user/repo.git`  
 6. Push/Pull changes securely  
 
-📌 [Detailed Guide](./git-ssh/README.md)
+📌 [Detailed Guide](./git-ssh/GIT-SSH.md)
 
 ---
 
@@ -52,7 +52,7 @@ Practice working with **multiple branches** in Git.
 6. Resolve merge conflicts (if any)  
 7. Delete branch → `git branch -d feature-1`  
 
-📌 [Detailed Guide](./git-branches/README.md)
+📌 [Detailed Guide](./git-branches/BRANCH.md)
 
 ---
 
